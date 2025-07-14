@@ -1,0 +1,45 @@
+C:\Users\user\Troll\ArtInt\ArtIntProjects\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\user\Troll\ArtInt\ArtIntProjects\Core\bin\Debug\net6.0\Core.dll
+C:\Users\user\Troll\ArtInt\ArtIntProjects\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\user\Troll\ArtInt\ArtIntProjects\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Troll\ArtInt\ArtIntProjects\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\user\Troll\ArtInt\ArtIntProjects\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\user\Troll\ArtInt\ArtIntProjects\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\user\Troll\ArtInt\ArtIntProjects\Core\obj\Debug\net6.0\Core.dll
+C:\Users\user\Troll\ArtInt\ArtIntProjects\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\user\Troll\ArtInt\ArtIntProjects\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\user\Troll\ArtInt\ArtIntProjects\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Users\Lenovo\Downloads\ArtInt (4)\ArtInt\ArtIntProjects\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\Lenovo\Downloads\ArtInt (4)\ArtInt\ArtIntProjects\Core\bin\Debug\net6.0\Core.dll
+C:\Users\Lenovo\Downloads\ArtInt (4)\ArtInt\ArtIntProjects\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\Lenovo\Downloads\ArtInt (4)\ArtInt\ArtIntProjects\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\ArtInt (4)\ArtInt\ArtIntProjects\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Downloads\ArtInt (4)\ArtInt\ArtIntProjects\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\ArtInt (4)\ArtInt\ArtIntProjects\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\Lenovo\Downloads\ArtInt (4)\ArtInt\ArtIntProjects\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\ArtInt (4)\ArtInt\ArtIntProjects\Core\obj\Debug\net6.0\Core.dll
+C:\Users\Lenovo\Downloads\ArtInt (4)\ArtInt\ArtIntProjects\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\Lenovo\Downloads\ArtInt (4)\ArtInt\ArtIntProjects\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\Lenovo\Downloads\ArtInt (4)\ArtInt\ArtIntProjects\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Users\Lenovo\Documents\AI pro\ArtIntProjects\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\Lenovo\Documents\AI pro\ArtIntProjects\Core\bin\Debug\net6.0\Core.dll
+C:\Users\Lenovo\Documents\AI pro\ArtIntProjects\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\Lenovo\Documents\AI pro\ArtIntProjects\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\AI pro\ArtIntProjects\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\AI pro\ArtIntProjects\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\AI pro\ArtIntProjects\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\AI pro\ArtIntProjects\Core\obj\Debug\net6.0\Core.dll
+C:\Users\Lenovo\Documents\AI pro\ArtIntProjects\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\Lenovo\Documents\AI pro\ArtIntProjects\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\Lenovo\Documents\AI pro\ArtIntProjects\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Users\Lenovo\Documents\Luyanda Pro Rep\AI\ArtIntProjects\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\Lenovo\Documents\Luyanda Pro Rep\AI\ArtIntProjects\Core\bin\Debug\net6.0\Core.dll
+C:\Users\Lenovo\Documents\Luyanda Pro Rep\AI\ArtIntProjects\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\Lenovo\Documents\Luyanda Pro Rep\AI\ArtIntProjects\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\Luyanda Pro Rep\AI\ArtIntProjects\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\Luyanda Pro Rep\AI\ArtIntProjects\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\Luyanda Pro Rep\AI\ArtIntProjects\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Luyanda Pro Rep\AI\ArtIntProjects\Core\obj\Debug\net6.0\Core.dll
+C:\Users\Lenovo\Documents\Luyanda Pro Rep\AI\ArtIntProjects\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\Lenovo\Documents\Luyanda Pro Rep\AI\ArtIntProjects\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\Lenovo\Documents\Luyanda Pro Rep\AI\ArtIntProjects\Core\obj\Debug\net6.0\ref\Core.dll

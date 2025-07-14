@@ -1,0 +1,44 @@
+C:\Users\user\Troll\ArtInt\ArtIntProjects\DieHard3CA\bin\Debug\net6.0\DieHard3CA.exe
+C:\Users\user\Troll\ArtInt\ArtIntProjects\DieHard3CA\bin\Debug\net6.0\DieHard3CA.deps.json
+C:\Users\user\Troll\ArtInt\ArtIntProjects\DieHard3CA\bin\Debug\net6.0\DieHard3CA.runtimeconfig.json
+C:\Users\user\Troll\ArtInt\ArtIntProjects\DieHard3CA\bin\Debug\net6.0\DieHard3CA.dll
+C:\Users\user\Troll\ArtInt\ArtIntProjects\DieHard3CA\bin\Debug\net6.0\DieHard3CA.pdb
+C:\Users\user\Troll\ArtInt\ArtIntProjects\DieHard3CA\obj\Debug\net6.0\DieHard3CA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Troll\ArtInt\ArtIntProjects\DieHard3CA\obj\Debug\net6.0\DieHard3CA.AssemblyInfoInputs.cache
+C:\Users\user\Troll\ArtInt\ArtIntProjects\DieHard3CA\obj\Debug\net6.0\DieHard3CA.AssemblyInfo.cs
+C:\Users\user\Troll\ArtInt\ArtIntProjects\DieHard3CA\obj\Debug\net6.0\DieHard3CA.csproj.CoreCompileInputs.cache
+C:\Users\user\Troll\ArtInt\ArtIntProjects\DieHard3CA\obj\Debug\net6.0\DieHard3CA.dll
+C:\Users\user\Troll\ArtInt\ArtIntProjects\DieHard3CA\obj\Debug\net6.0\refint\DieHard3CA.dll
+C:\Users\user\Troll\ArtInt\ArtIntProjects\DieHard3CA\obj\Debug\net6.0\DieHard3CA.pdb
+C:\Users\user\Troll\ArtInt\ArtIntProjects\DieHard3CA\obj\Debug\net6.0\DieHard3CA.genruntimeconfig.cache
+C:\Users\user\Troll\ArtInt\ArtIntProjects\DieHard3CA\obj\Debug\net6.0\ref\DieHard3CA.dll
+C:\Users\user\Troll\ArtInt\ArtIntProjects\DieHard3CA\bin\Debug\net6.0\Core.dll
+C:\Users\user\Troll\ArtInt\ArtIntProjects\DieHard3CA\bin\Debug\net6.0\Core.pdb
+C:\Users\user\Troll\ArtInt\ArtIntProjects\DieHard3CA\obj\Debug\net6.0\DieHard3CA.csproj.AssemblyReference.cache
+C:\Users\user\Troll\ArtInt\ArtIntProjects\DieHard3CA\obj\Debug\net6.0\DieHard3CA.csproj.CopyComplete
+C:\Users\Lenovo\Downloads\ArtInt (5)\ArtInt\ArtIntProjects\DieHard3CA\bin\Debug\net6.0\DieHard3CA.exe
+C:\Users\Lenovo\Downloads\ArtInt (5)\ArtInt\ArtIntProjects\DieHard3CA\bin\Debug\net6.0\DieHard3CA.deps.json
+C:\Users\Lenovo\Downloads\ArtInt (5)\ArtInt\ArtIntProjects\DieHard3CA\bin\Debug\net6.0\DieHard3CA.runtimeconfig.json
+C:\Users\Lenovo\Downloads\ArtInt (5)\ArtInt\ArtIntProjects\DieHard3CA\bin\Debug\net6.0\DieHard3CA.dll
+C:\Users\Lenovo\Downloads\ArtInt (5)\ArtInt\ArtIntProjects\DieHard3CA\bin\Debug\net6.0\DieHard3CA.pdb
+C:\Users\Lenovo\Downloads\ArtInt (5)\ArtInt\ArtIntProjects\DieHard3CA\bin\Debug\net6.0\Core.dll
+C:\Users\Lenovo\Downloads\ArtInt (5)\ArtInt\ArtIntProjects\DieHard3CA\bin\Debug\net6.0\Core.pdb
+C:\Users\Lenovo\Downloads\ArtInt (5)\ArtInt\ArtIntProjects\DieHard3CA\obj\Debug\net6.0\DieHard3CA.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\ArtInt (5)\ArtInt\ArtIntProjects\DieHard3CA\obj\Debug\net6.0\DieHard3CA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Downloads\ArtInt (5)\ArtInt\ArtIntProjects\DieHard3CA\obj\Debug\net6.0\DieHard3CA.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\ArtInt (5)\ArtInt\ArtIntProjects\DieHard3CA\obj\Debug\net6.0\DieHard3CA.AssemblyInfo.cs
+C:\Users\Lenovo\Downloads\ArtInt (5)\ArtInt\ArtIntProjects\DieHard3CA\obj\Debug\net6.0\DieHard3CA.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\ArtInt (5)\ArtInt\ArtIntProjects\DieHard3CA\obj\Debug\net6.0\DieHard3CA.csproj.CopyComplete
+C:\Users\Lenovo\Downloads\ArtInt (5)\ArtInt\ArtIntProjects\DieHard3CA\obj\Debug\net6.0\DieHard3CA.dll
+C:\Users\Lenovo\Downloads\ArtInt (5)\ArtInt\ArtIntProjects\DieHard3CA\obj\Debug\net6.0\refint\DieHard3CA.dll
+C:\Users\Lenovo\Downloads\ArtInt (5)\ArtInt\ArtIntProjects\DieHard3CA\obj\Debug\net6.0\DieHard3CA.pdb
+C:\Users\Lenovo\Downloads\ArtInt (5)\ArtInt\ArtIntProjects\DieHard3CA\obj\Debug\net6.0\DieHard3CA.genruntimeconfig.cache
+C:\Users\Lenovo\Downloads\ArtInt (5)\ArtInt\ArtIntProjects\DieHard3CA\obj\Debug\net6.0\ref\DieHard3CA.dll
+C:\Users\Lenovo\Documents\AI pro\ArtIntProjects\DieHard3CA\obj\Debug\net6.0\DieHard3CA.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\AI pro\ArtIntProjects\DieHard3CA\obj\Debug\net6.0\DieHard3CA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\AI pro\ArtIntProjects\DieHard3CA\obj\Debug\net6.0\DieHard3CA.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\AI pro\ArtIntProjects\DieHard3CA\obj\Debug\net6.0\DieHard3CA.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\AI pro\ArtIntProjects\DieHard3CA\obj\Debug\net6.0\DieHard3CA.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\AI pro\ArtIntProjects\DieHard3CA\obj\Debug\net6.0\DieHard3CA.dll
+C:\Users\Lenovo\Documents\AI pro\ArtIntProjects\DieHard3CA\obj\Debug\net6.0\refint\DieHard3CA.dll
+C:\Users\Lenovo\Documents\AI pro\ArtIntProjects\DieHard3CA\obj\Debug\net6.0\DieHard3CA.pdb

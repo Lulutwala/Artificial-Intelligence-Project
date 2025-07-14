@@ -1,0 +1,40 @@
+C:\Users\Lenovo\Documents\AI pro\ArtIntProjects\WindowsRepresentation\bin\Debug\net6.0-windows\WindowsRepresentation.exe
+C:\Users\Lenovo\Documents\AI pro\ArtIntProjects\WindowsRepresentation\bin\Debug\net6.0-windows\WindowsRepresentation.deps.json
+C:\Users\Lenovo\Documents\AI pro\ArtIntProjects\WindowsRepresentation\bin\Debug\net6.0-windows\WindowsRepresentation.runtimeconfig.json
+C:\Users\Lenovo\Documents\AI pro\ArtIntProjects\WindowsRepresentation\bin\Debug\net6.0-windows\WindowsRepresentation.dll
+C:\Users\Lenovo\Documents\AI pro\ArtIntProjects\WindowsRepresentation\bin\Debug\net6.0-windows\WindowsRepresentation.pdb
+C:\Users\Lenovo\Documents\AI pro\ArtIntProjects\WindowsRepresentation\obj\Debug\net6.0-windows\WindowsRepresentation.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\AI pro\ArtIntProjects\WindowsRepresentation\obj\Debug\net6.0-windows\WindowsRepresentation.Form1.resources
+C:\Users\Lenovo\Documents\AI pro\ArtIntProjects\WindowsRepresentation\obj\Debug\net6.0-windows\WindowsRepresentation.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\AI pro\ArtIntProjects\WindowsRepresentation\obj\Debug\net6.0-windows\WindowsRepresentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\AI pro\ArtIntProjects\WindowsRepresentation\obj\Debug\net6.0-windows\WindowsRepresentation.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\AI pro\ArtIntProjects\WindowsRepresentation\obj\Debug\net6.0-windows\WindowsRepresentation.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\AI pro\ArtIntProjects\WindowsRepresentation\obj\Debug\net6.0-windows\WindowsRepresentation.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\AI pro\ArtIntProjects\WindowsRepresentation\obj\Debug\net6.0-windows\WindowsRepresentation.dll
+C:\Users\Lenovo\Documents\AI pro\ArtIntProjects\WindowsRepresentation\obj\Debug\net6.0-windows\refint\WindowsRepresentation.dll
+C:\Users\Lenovo\Documents\AI pro\ArtIntProjects\WindowsRepresentation\obj\Debug\net6.0-windows\WindowsRepresentation.pdb
+C:\Users\Lenovo\Documents\AI pro\ArtIntProjects\WindowsRepresentation\obj\Debug\net6.0-windows\WindowsRepresentation.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\AI pro\ArtIntProjects\WindowsRepresentation\obj\Debug\net6.0-windows\ref\WindowsRepresentation.dll
+C:\Users\Lenovo\Documents\AI pro\ArtIntProjects\WindowsRepresentation\bin\Debug\net6.0-windows\Core.dll
+C:\Users\Lenovo\Documents\AI pro\ArtIntProjects\WindowsRepresentation\bin\Debug\net6.0-windows\Core.pdb
+C:\Users\Lenovo\Documents\AI pro\ArtIntProjects\WindowsRepresentation\obj\Debug\net6.0-windows\WindowsR.D3B498B8.Up2Date
+C:\Users\Lenovo\Documents\Luyanda Pro Rep\AI\ArtIntProjects\WindowsRepresentation\bin\Debug\net6.0-windows\WindowsRepresentation.exe
+C:\Users\Lenovo\Documents\Luyanda Pro Rep\AI\ArtIntProjects\WindowsRepresentation\bin\Debug\net6.0-windows\WindowsRepresentation.deps.json
+C:\Users\Lenovo\Documents\Luyanda Pro Rep\AI\ArtIntProjects\WindowsRepresentation\bin\Debug\net6.0-windows\WindowsRepresentation.runtimeconfig.json
+C:\Users\Lenovo\Documents\Luyanda Pro Rep\AI\ArtIntProjects\WindowsRepresentation\bin\Debug\net6.0-windows\WindowsRepresentation.dll
+C:\Users\Lenovo\Documents\Luyanda Pro Rep\AI\ArtIntProjects\WindowsRepresentation\bin\Debug\net6.0-windows\WindowsRepresentation.pdb
+C:\Users\Lenovo\Documents\Luyanda Pro Rep\AI\ArtIntProjects\WindowsRepresentation\bin\Debug\net6.0-windows\Core.dll
+C:\Users\Lenovo\Documents\Luyanda Pro Rep\AI\ArtIntProjects\WindowsRepresentation\bin\Debug\net6.0-windows\Core.pdb
+C:\Users\Lenovo\Documents\Luyanda Pro Rep\AI\ArtIntProjects\WindowsRepresentation\obj\Debug\net6.0-windows\WindowsRepresentation.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\Luyanda Pro Rep\AI\ArtIntProjects\WindowsRepresentation\obj\Debug\net6.0-windows\WindowsRepresentation.Form1.resources
+C:\Users\Lenovo\Documents\Luyanda Pro Rep\AI\ArtIntProjects\WindowsRepresentation\obj\Debug\net6.0-windows\WindowsRepresentation.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\Luyanda Pro Rep\AI\ArtIntProjects\WindowsRepresentation\obj\Debug\net6.0-windows\WindowsRepresentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\Luyanda Pro Rep\AI\ArtIntProjects\WindowsRepresentation\obj\Debug\net6.0-windows\WindowsRepresentation.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\Luyanda Pro Rep\AI\ArtIntProjects\WindowsRepresentation\obj\Debug\net6.0-windows\WindowsRepresentation.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\Luyanda Pro Rep\AI\ArtIntProjects\WindowsRepresentation\obj\Debug\net6.0-windows\WindowsRepresentation.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Luyanda Pro Rep\AI\ArtIntProjects\WindowsRepresentation\obj\Debug\net6.0-windows\WindowsR.D3B498B8.Up2Date
+C:\Users\Lenovo\Documents\Luyanda Pro Rep\AI\ArtIntProjects\WindowsRepresentation\obj\Debug\net6.0-windows\WindowsRepresentation.dll
+C:\Users\Lenovo\Documents\Luyanda Pro Rep\AI\ArtIntProjects\WindowsRepresentation\obj\Debug\net6.0-windows\refint\WindowsRepresentation.dll
+C:\Users\Lenovo\Documents\Luyanda Pro Rep\AI\ArtIntProjects\WindowsRepresentation\obj\Debug\net6.0-windows\WindowsRepresentation.pdb
+C:\Users\Lenovo\Documents\Luyanda Pro Rep\AI\ArtIntProjects\WindowsRepresentation\obj\Debug\net6.0-windows\WindowsRepresentation.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\Luyanda Pro Rep\AI\ArtIntProjects\WindowsRepresentation\obj\Debug\net6.0-windows\ref\WindowsRepresentation.dll

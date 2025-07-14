@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Documents\\Luyanda Pro Rep\\AI\\ArtIntProjects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{059A6E8B-87E5-4512-B5AA-41A09451C02B}|WindowsRepresentation\\WindowsRepresentation.csproj|c:\\users\\lenovo\\documents\\luyanda pro rep\\ai\\artintprojects\\windowsrepresentation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059A6E8B-87E5-4512-B5AA-41A09451C02B}|WindowsRepresentation\\WindowsRepresentation.csproj|solutionrelative:windowsrepresentation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059A6E8B-87E5-4512-B5AA-41A09451C02B}|WindowsRepresentation\\WindowsRepresentation.csproj|C:\\Users\\Lenovo\\Documents\\Luyanda Pro Rep\\AI\\ArtIntProjects\\windowsrepresentation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{059A6E8B-87E5-4512-B5AA-41A09451C02B}|WindowsRepresentation\\WindowsRepresentation.csproj|solutionrelative:windowsrepresentation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD89F19-7731-4DEC-AAAD-E194ED361BDB}|Core\\Core.csproj|c:\\users\\lenovo\\documents\\luyanda pro rep\\ai\\artintprojects\\core\\aimovementsolver\\depthfirstsolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD89F19-7731-4DEC-AAAD-E194ED361BDB}|Core\\Core.csproj|solutionrelative:core\\aimovementsolver\\depthfirstsolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E958479D-B8CA-435B-9203-709B796662ED}|AIMovement\\AIMovement.csproj|c:\\users\\lenovo\\documents\\luyanda pro rep\\ai\\artintprojects\\aimovement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E958479D-B8CA-435B-9203-709B796662ED}|AIMovement\\AIMovement.csproj|solutionrelative:aimovement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD89F19-7731-4DEC-AAAD-E194ED361BDB}|Core\\Core.csproj|c:\\users\\lenovo\\documents\\luyanda pro rep\\ai\\artintprojects\\core\\aimovementsolver\\optimalsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD89F19-7731-4DEC-AAAD-E194ED361BDB}|Core\\Core.csproj|solutionrelative:core\\aimovementsolver\\optimalsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD89F19-7731-4DEC-AAAD-E194ED361BDB}|Core\\Core.csproj|c:\\users\\lenovo\\documents\\luyanda pro rep\\ai\\artintprojects\\core\\aimovementsolver\\breathfirstsolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD89F19-7731-4DEC-AAAD-E194ED361BDB}|Core\\Core.csproj|solutionrelative:core\\aimovementsolver\\breathfirstsolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD89F19-7731-4DEC-AAAD-E194ED361BDB}|Core\\Core.csproj|c:\\users\\lenovo\\documents\\luyanda pro rep\\ai\\artintprojects\\core\\aimovementsolver\\backtrackingsolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD89F19-7731-4DEC-AAAD-E194ED361BDB}|Core\\Core.csproj|solutionrelative:core\\aimovementsolver\\backtrackingsolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD89F19-7731-4DEC-AAAD-E194ED361BDB}|Core\\Core.csproj|c:\\users\\lenovo\\documents\\luyanda pro rep\\ai\\artintprojects\\core\\staterepresentations\\aimovement\\chessstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD89F19-7731-4DEC-AAAD-E194ED361BDB}|Core\\Core.csproj|solutionrelative:core\\staterepresentations\\aimovement\\chessstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepthFirstSolver.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Luyanda Pro Rep\\AI\\ArtIntProjects\\Core\\AIMovementSolver\\DepthFirstSolver.cs",
+              "RelativeDocumentMoniker": "Core\\AIMovementSolver\\DepthFirstSolver.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Luyanda Pro Rep\\AI\\ArtIntProjects\\Core\\AIMovementSolver\\DepthFirstSolver.cs",
+              "RelativeToolTip": "Core\\AIMovementSolver\\DepthFirstSolver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T13:17:44.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Luyanda Pro Rep\\AI\\ArtIntProjects\\WindowsRepresentation\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsRepresentation\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Luyanda Pro Rep\\AI\\ArtIntProjects\\WindowsRepresentation\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsRepresentation\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T09:42:57.913Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BacktrackingSolver.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Luyanda Pro Rep\\AI\\ArtIntProjects\\Core\\AIMovementSolver\\BacktrackingSolver.cs",
+              "RelativeDocumentMoniker": "Core\\AIMovementSolver\\BacktrackingSolver.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Luyanda Pro Rep\\AI\\ArtIntProjects\\Core\\AIMovementSolver\\BacktrackingSolver.cs",
+              "RelativeToolTip": "Core\\AIMovementSolver\\BacktrackingSolver.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T11:09:23.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChessState.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Luyanda Pro Rep\\AI\\ArtIntProjects\\Core\\StateRepresentations\\AIMovement\\ChessState.cs",
+              "RelativeDocumentMoniker": "Core\\StateRepresentations\\AIMovement\\ChessState.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Luyanda Pro Rep\\AI\\ArtIntProjects\\Core\\StateRepresentations\\AIMovement\\ChessState.cs",
+              "RelativeToolTip": "Core\\StateRepresentations\\AIMovement\\ChessState.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAswBIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:52:07.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BreathFirstSolver.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Luyanda Pro Rep\\AI\\ArtIntProjects\\Core\\AIMovementSolver\\BreathFirstSolver.cs",
+              "RelativeDocumentMoniker": "Core\\AIMovementSolver\\BreathFirstSolver.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Luyanda Pro Rep\\AI\\ArtIntProjects\\Core\\AIMovementSolver\\BreathFirstSolver.cs",
+              "RelativeToolTip": "Core\\AIMovementSolver\\BreathFirstSolver.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T08:04:01.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OptimalSearch.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Luyanda Pro Rep\\AI\\ArtIntProjects\\Core\\AIMovementSolver\\OptimalSearch.cs",
+              "RelativeDocumentMoniker": "Core\\AIMovementSolver\\OptimalSearch.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Luyanda Pro Rep\\AI\\ArtIntProjects\\Core\\AIMovementSolver\\OptimalSearch.cs",
+              "RelativeToolTip": "Core\\AIMovementSolver\\OptimalSearch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T13:18:02.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Luyanda Pro Rep\\AI\\ArtIntProjects\\WindowsRepresentation\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsRepresentation\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Luyanda Pro Rep\\AI\\ArtIntProjects\\WindowsRepresentation\\Form1.cs",
+              "RelativeToolTip": "WindowsRepresentation\\Form1.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwGQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T09:46:12.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Luyanda Pro Rep\\AI\\ArtIntProjects\\AIMovement\\Program.cs",
+              "RelativeDocumentMoniker": "AIMovement\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Luyanda Pro Rep\\AI\\ArtIntProjects\\AIMovement\\Program.cs",
+              "RelativeToolTip": "AIMovement\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T11:12:44.038Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
